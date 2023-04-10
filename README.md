@@ -1,7 +1,7 @@
 # dynamic-website
-This website is created by Nishant kaushal. This website was particularly made so that website can stay dynamic in local computer without using domain. But for uploading it to website you have to make following changes :
+This website was created by Nishant Kaushal. This website was particularly made so that website can stay dynamic on local computer without using domain. But for uploading it to a website, you have to make the following changes:
 
-1) Rename files index.php ,blog.php ,contact.php ,course.php,about.php as .html file.
-2)Make same changes in href of every html file.
+1) Rename the files index.php, blog.php,blog.php ,contact.php course.php, and about.php as.html files.
+2) Make the same changes in the href of every html file.
 
-And you are good to go
+And you are good to go.
